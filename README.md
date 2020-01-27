@@ -60,11 +60,11 @@ The group further respects the CAA’s rules which govern Special interest group
 * publish a LOD Cookbook for Beginners
 * publish list of LOD in archaeology related talks an papers
 
-## SIG Governance
+# SIG Governance
 
 The group was proposed at CAA 2019 in Krakow, it will be formed if consent is given by the CAA steering committee and it is ratified by the CAA membership at the Annual General Meeting at CAA 2020 in Oxford. Within a year the SIG will make arrangements to appoint a speaker, this person will cater for the day-to-day running of the SIG, the SIG committee will be formed of those currently active in this field of interest. This will be subject to the CAA steering committee's approval.
 
-### SIG Coordinators &. Supporters
+# SIG Coordinators &. Supporters
 
 The groups coordinators are formed by those who are demonstratively active in this arena, while all CAA members are welcome to contribute to the group.
 
