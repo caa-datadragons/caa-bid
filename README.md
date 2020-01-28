@@ -75,7 +75,8 @@ The groups coordinators are formed by those who are demonstratively active in th
 
 **Group Coordinators:**
 
-> Ethan Gruber, Martina Trognitz, Karsten Tolle, David Wigg-Wolf, Valeria Vitale, Kai-Christian Bruhn
+> Ethan Gruber, Martina Trognitz, Kai-Christian Bruhn
+> Karsten Tolle, David Wigg-Wolf, Valeria Vitale
 
 All members and supporters can be seen in this list: https://t1p.de/DDJOIN
 
