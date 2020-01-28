@@ -1,6 +1,6 @@
 Dear honourable members of the CAA Steering Committee,
 
-With this letter, we would like to express our intention to establish a CAA Special Interest Group (SIG) on `Semantics and LOUD in Archaeology` (SIG-DataDragon) under the auspices of the CAA international. The idea for this SIG was developed in 2019 in a session on Linked Open Data (LOD) in archaeology. Out of this event and the resulting discussions, it was proposed to form such a Special Interest Group to create a permanent platform for the exchange and discussion of ideas and to develop the practical use of LOD for archaeological applications. After further discussions with colleagues, it became clear that it would be a good idea to extend the focus to all semantics and application interfaces.
+With this letter, we would like to express our intention to establish a CAA Special Interest Group (SIG) on `Semantics and LOUD in Archaeology` (CAA SIG Data Dragon) under the auspices of the CAA international. The idea for this SIG was developed in 2019 in a session on Linked Open Data (LOD) in archaeology. Out of this event and the resulting discussions, it was proposed to form such a Special Interest Group to create a permanent platform for the exchange and discussion of ideas and to develop the practical use of LOD for archaeological applications. After further discussions with colleagues, it became clear that it would be a good idea to extend the focus to all semantics and application interfaces.
 
  The SIG already exists de facto with a Website (http://datadragon.link), a Github organisation (https://github.com/caa-datadragons) and its active members. For the CAA 2020, we would now like to propose to formally include this SIG in the canon of the SIGs of the CAA. We also have a session on Linked Data where new members of the SIG can inscribe.
 
@@ -14,7 +14,7 @@ Various researchers are doing modeling semantic information and producing Linked
 
 # Statement of purpose
 
-The core aim of the CAA Special Interest Group on `Semantics and LOUD in Archaeology` (SIG-DataDragon) is to use the CAA’s SIG format to raise the awareness of Linked Data in archaeology, this is to be achieved through some primary objectives:
+The core aim of the CAA Special Interest Group on `Semantics and LOUD in Archaeology` (CAA SIG Data Dragon) is to use the CAA’s SIG format to raise the awareness of Linked Data in archaeology, this is to be achieved through some primary objectives:
 
 * Create a friendly and open platform to discuss the role of LOUD and FAIR Data in archaeology.
 * Enable the CAA community to get the LOD basics throughout workshops, teaching material, etc.
@@ -33,7 +33,7 @@ The SIG is an open format that supports discussion and the circulation of ideas 
 
 The group further respects the CAA’s rules which govern Special interest groups as detailed here: http://caa-international.org/special-interest-groups/.
 
-# Former related Activities at CAA
+# Related Activities at CAA
 
 * Session on Ontologies at CAA Paris 2014 (S07 Ontologies and standards for improving interoperability of archaeological data: from models towards practical experiences in various contexts)
 * Session on Linked Data at CAA Siena 2015 (S2D Linked Data: From interoperable to interoperating)
@@ -41,11 +41,12 @@ The group further respects the CAA’s rules which govern Special interest group
 * Session on Linked Data at CAA Oslo 2016 (S21 Linked Pasts: Connecting islands of content)
 * Session on LOD and Data Quality at CAA Tübingen 2018 (S33 Guaranteeing data quality in archaeological Linked Open Data)
 * Session on LOD and Data Quality at CAA Krakow 2019 (S14 Modelling Data Quality in archaeological Linked Open Data)
+* Session on Linked Open and FAIR data at CAA Oxford 2019 (S21 Hic sunt dracones – Improving knowledge exchange in the Semantic Web with Linked Open and FAIR data)
 
 # Proposed SIG Activities at CAA
 
-* LOUD SIG Roundtable at the next CAAs on LOD in archaeology
-* LOUD SIG Session at the next CAAs on Semantics / LOUD and FAIR data
+* SIG Roundtable at the next CAAs on LOD in archaeology
+* SIG Session at the next CAAs on Semantics, LOUD and FAIR data in archaeology
 
 # SIG Outreach
 
