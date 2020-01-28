@@ -68,9 +68,13 @@ The group was proposed at CAA 2019 in Krakow, it will be formed if consent is gi
 
 The groups coordinators are formed by those who are demonstratively active in this arena, while all CAA members are welcome to contribute to the group.
 
-**Speaker:** Florian Thiery?
+**Speaker:**
 
-**Group Coordinators:** Ethan Gruber, Martina Trognitz, Karsten Tolle, David Wigg-Wolf, Valeria Vitale, Kai-Christian Bruhn
+> Florian Thiery?
+
+**Group Coordinators:**
+
+> Ethan Gruber, Martina Trognitz, Karsten Tolle, David Wigg-Wolf, Valeria Vitale, Kai-Christian Bruhn
 
 All members can be seen in this list: https://github.com/caa-datadragons/caa-bid/blob/master/supporters.csv
 
@@ -80,4 +84,4 @@ Thank you for considering this proposal.
 
 With best regards,
 
-Florian Thiery, Ethan Gruber, Martina Trognitz
+XXX, YYY, ZZZ
