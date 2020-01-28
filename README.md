@@ -76,7 +76,7 @@ The groups coordinators are formed by those who are demonstratively active in th
 
 > Ethan Gruber, Martina Trognitz, Karsten Tolle, David Wigg-Wolf, Valeria Vitale, Kai-Christian Bruhn
 
-All members can be seen in this list: https://github.com/caa-datadragons/caa-bid/blob/master/supporters.csv
+All members can be seen in this list: https://t1p.de/DDJOIN
 
 If you approve the formation of this SIG, we would also like to ask you if and how the SIG could get a short slot in the schedule of the CAA2020 conference in Oxford to discuss the organisational affairs among new and established members.
 
