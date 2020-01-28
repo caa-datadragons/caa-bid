@@ -51,15 +51,15 @@ The group further respects the CAA’s rules which govern Special interest group
 # SIG Outreach
 
 * The SIG wants to make the **Data Dragons** visible!
-* Website http://datadragon.link to share all information on SIG activities and the LOUD and FAIR topic itself
-* GitHub organisation https://github.com/caa-datadragons with SIG members as owner all others can pull requests
-* publish a list of LOD in archaeology related infrasrructures with its URI ressources, sparql enpoints, APIs, dumps, etc. for Objects (Nomisma etc.) Gazetteers (Pleiades etc.) Thesuari (Getty etc.) Time (ChronOntology etc.) Persons (GND etc.) GeoData (OpenStreeMap etc.)
-  * this is done in the `hungry squirrels` (http://hungry.squirrel.link) project and published in the `dragonator` (http://dragonator.datadragon.link)
+* Website `http://datadragon.link` to share all information on SIG activities and the LOUD and FAIR topic itself
+* GitHub organisation `@caa-datadragons` with SIG members as owner all others can pull requests
+* publish a list of LOD in archaeology related infrasrructures with its URI ressources, SPARQL enpoints, APIs, dumps, etc. for Objects (Nomisma etc.) Gazetteers (Pleiades etc.) Thesuari (Getty etc.) Time (ChronOntology etc.) Persons (GND etc.) GeoData (OpenStreeMap etc.)
+  * this is done in the `hungry squirrels` (`http://hungry.squirrel.link`) project and published in the `dragonator` (`http://dragonator.datadragon.link`)
 
 # SIG Outreach Ideas
 
-* publish a LOD Cookbook for Beginners
-* publish list of LOD in archaeology related talks an papers
+* publish a `LOD Cookbook for Beginners`
+* publish a `list of LOD in archaeology related talks and papers`
 
 # SIG Governance
 
@@ -77,12 +77,12 @@ The groups coordinators are formed by those who are demonstratively active in th
 
 > Ethan Gruber, Martina Trognitz, Karsten Tolle, David Wigg-Wolf, Valeria Vitale, Kai-Christian Bruhn
 
-All members can be seen in this list: https://t1p.de/DDJOIN
+All members and supporters can be seen in this list: https://t1p.de/DDJOIN
 
 If you approve the formation of this SIG, we would also like to ask you if and how the SIG could get a short slot in the schedule of the CAA2020 conference in Oxford to discuss the organisational affairs among new and established members.
 
 Thank you for considering this proposal.
 
-With best regards,
+Sincerely yours
 
 XXX, YYY, ZZZ
