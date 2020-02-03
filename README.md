@@ -71,15 +71,11 @@ The group was proposed at CAA 2019 in Krakow, it will be formed if consent is gi
 
 The group coordinators are formed by those who are demonstratively active in this arena, while all CAA members are welcome to contribute to the group.
 
-**Speaker:**
+**Speakers** / **Group Coordinators:**
 
-> Florian Thiery?
+> Florian Thiery, Ethan Gruber, Martina Trognitz
 
-**Group Coordinators:**
-
-> Ethan Gruber, Martina Trognitz, Kai-Christian Bruhn
-
-> Karsten Tolle, David Wigg-Wolf, Valeria Vitale
+**Members** / **Supporters:**
 
 All members and supporters are listed here: https://t1p.de/DDJOIN
 
@@ -89,6 +85,4 @@ Thank you for considering this proposal.
 
 Sincerely yours
 
-XXX, YYY, ZZZ
-
-> here: Martina Trognitz, Florian Thiery and Ethan Gruber?
+> Martina Trognitz, Florian Thiery and Ethan Gruber
