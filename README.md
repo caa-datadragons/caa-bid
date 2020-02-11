@@ -73,7 +73,9 @@ The group coordinators are formed by those who are demonstratively active in thi
 
 **Speakers** / **Group Coordinators:**
 
-> Florian Thiery, Ethan Gruber, Martina Trognitz
+> temp. speaker: Florian Thiery
+
+> temp. coordinators: Martina Trognitz, Ethan Gruber, Florian Thiery, David Wigg-Wolf
 
 **Members** / **Supporters:**
 
@@ -85,4 +87,4 @@ Thank you for considering this proposal.
 
 Sincerely yours
 
-> Martina Trognitz, Florian Thiery and Ethan Gruber
+Martina Trognitz, Ethan Gruber, Florian Thiery, Karsten Tolle and David Wigg-Wolf
