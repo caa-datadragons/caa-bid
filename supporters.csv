@@ -1,12 +1,12 @@
-name,given_name,Interests,CAA member
-Thiery,Florian,"LOD, CIDOC, Wikidata",true
-Gruber,Ethan,"LOD, Numismatics",true
-Trognitz,Martina,"LOD, Wikidata, Digital Archiving",true
-Schmidt,Sophie Charlotte,"LOD, Wikidata",true
-Tolle,Karsten,"LOD, Numismatics",true
-Vitale,Valeria,"LOD, Pelagios, Gazetteers",true
-Wigg-Wolf,David,"LOD, Numismatics",true
-Bruhn,Kai-Christian,LOD,true
-Muccigrosso,John,LOD,false
-Nobles,Gary,LOD,true
-Homburg,Timo,"LOD, Geodata",false
+name,given_name,Interests,CAA member,speaker,coordinator
+Thiery,Florian,"LOD, CIDOC, Wikidata",X,X,X
+Gruber,Ethan,"LOD, Numismatics",X,,X
+Trognitz,Martina,"LOD, Wikidata, Digital Archiving",X,,X
+Schmidt,Sophie Charlotte,"LOD, Wikidata",X,,
+Tolle,Karsten,"LOD, Numismatics",X,,
+Vitale,Valeria,"LOD, Pelagios, Gazetteers",X,,
+Wigg-Wolf,David,"LOD, Numismatics",X,,X
+Bruhn,Kai-Christian,LOD,X,,
+Muccigrosso,John,LOD,,,
+Nobles,Gary,LOD,X,,
+Homburg,Timo,"LOD, Geodata",,,
