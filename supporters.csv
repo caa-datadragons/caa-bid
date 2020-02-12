@@ -1,12 +1,12 @@
-"name","given_name","Interests","current affiliation"
-"Thiery","Florian","LOD, CIDOC, Wikidata","Research Squirrel Engineers (Germany), Römisch-Germanisches Zentralmuseum (Germany)"
-"Gruber","Ethan","LOD, Numismatics","American Numismatic Society (USA)"
-"Trognitz","Martina","LOD, Wikidata, Digital Archiving","Österreichische Akademie der Wissenschaften (Austria)"
-"Schmidt","Sophie Charlotte","LOD, Wikidata","Institute of Archaeology, University of Cologne"
-"Tolle","Karsten","LOD, Numismatics","University of Frankfurt (Germany)"
-"Vitale","Valeria","LOD, Pelagios, Gazetteers"," Institute of Classical Studies (GB)"
-"Wigg-Wolf","David","LOD, Numismatics","Römisch-Germanische Kommission des Deutschen Archäologischen Instituts (Germany)"
-"Bruhn","Kai-Christian","LOD","Hochschule Mainz (Germany)"
-"Muccigrosso","John","LOD","Drew University (USA)"
-"Nobles","Gary","LOD","Koç University (Turkey)"
-"Homburg","Timo","LOD, Geodata","Hochschule Mainz (Germany)"
+name,given_name,Interests
+Thiery,Florian,"LOD, CIDOC, Wikidata"
+Gruber,Ethan,"LOD, Numismatics"
+Trognitz,Martina,"LOD, Wikidata, Digital Archiving"
+Schmidt,Sophie Charlotte,"LOD, Wikidata"
+Tolle,Karsten,"LOD, Numismatics"
+Vitale,Valeria,"LOD, Pelagios, Gazetteers"
+Wigg-Wolf,David,"LOD, Numismatics"
+Bruhn,Kai-Christian,LOD
+Muccigrosso,John,LOD
+Nobles,Gary,LOD
+Homburg,Timo,"LOD, Geodata"
