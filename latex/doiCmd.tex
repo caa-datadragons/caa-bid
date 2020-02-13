@@ -1,0 +1,44 @@
+% DOI and ARXIV Commands for Bib Files
+% Written by Daniel Herber
+% -----------------------------------------------
+% one option is to use the 'note' field with this command
+% -----------------------------------------------
+% for example, if your doi is 10.2514/1.J052182
+% then for the citation for the reference in your bib file, use
+% note = "\doi{10.2514/1.J052182}",
+% -----------------------------------------------
+% for example, if your arxiv number is 0706.1234
+% then for the citation for the reference in your bib file, use
+% note = "\arxiv{0706.1234}",
+
+% requires hyperref package for \href command
+\usepackage{hyperref}
+
+% doi command (use in bib file)
+\newcommand{\doi}[1]{{doi:~\href{http://doi.org/#1}{#1}}\rmFullStop}
+
+% arXiv command (use in bib file)
+\newcommand{\arxiv}[1]{{arXiv:\href{https://arxiv.org/abs/#1}{#1}}\rmFullStop}
+
+% command to remove full stop if the next character
+\newcommand*{\rmFullStop}{\rmifnextchar{.}{}{}}
+
+% command to check the next character and replace if present
+% \rmifnextchar{X}{[removed text]}{[no X text]}
+% if X is the next character, then it is removed and [removed text] is inserted
+% otherwise, the character is not removed and [no X text] is inserted
+% based on http://tex.stackexchange.com/questions/72827
+\makeatletter
+\newcommand{\rmifnextchar}[3]{%
+  \begingroup
+  \ltx@LocToksA{\endgroup#2}%
+  \ltx@LocToksB{\endgroup#3}%
+  \ltx@ifnextchar{#1}{%
+    \def\next{\the\ltx@LocToksA}%
+    \afterassignment\next
+    \let\scratch= %
+  }{%
+    \the\ltx@LocToksB
+  }%
+}
+\makeatother
